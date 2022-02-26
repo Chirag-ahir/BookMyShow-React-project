@@ -1,0 +1,12 @@
+.headerb{
+    background-color: rgb(31,37,51);
+    display: flex;
+    justify-content: space-around;
+    padding: 0.3rem;
+    color: rgb(204,204,204);
+    font-family: Roboto,sans-serif;
+}
+.headerb a{
+    text-decoration: none;
+    color: rgb(204,204,204);
+}
